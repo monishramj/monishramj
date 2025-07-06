@@ -22,5 +22,5 @@ i love tackling interdisciplinary challenges through engineering and programming
 
 > _"Keep moving forward."_ - Walt Disney’s Meet the Robinsons (2007)
 
-### _thanks for visiting my profile - feel free to explore my projects!_
+### _thanks for visiting my profile - feel free to explore my projects! 👇_
 

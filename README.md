@@ -10,7 +10,7 @@
 - 🧩 **interests** - embedded systems, VR/AR, robotics, HCI, AI/ML.
 - 🏆 national award winner in **aerial robotics**.  
 
-i love tackling interdisciplinary challenges through engineering and programming - **VR haptics**, **autonomous drones**, etc. - and building things that connect the virtual and physical worlds.  
+i love tackling interdisciplinary challenges through engineering and programming - **VR haptics**, **autonomous drones**, etc. - and building things that connect the virtual and physical worlds. currently finding my space in cs. 
 
 ## 🛠️ my toolbox.
 

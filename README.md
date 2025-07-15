@@ -1,8 +1,10 @@
-# 👋 hello, i'm monish rj!
+# hello, i'm monish rj! 🐼
 ###### welcome to my github :octocat:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/monish-ramesh-jayakumar-980765354) 
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?logo=gmail&style=flat&logoColor=white)](mailto:monishramj621@gmail.com)
+
+---
 
 ## 🍿 about me.
 
@@ -13,14 +15,14 @@
 i love tackling interdisciplinary challenges through engineering and programming - **VR haptics**, **autonomous drones**, etc. - and building things that connect the virtual and physical worlds. i'm currently finding my space in cs. 
 
 ## 🛠️ my toolbox.
-
-**languages:** `Python` `C/C++` `Java` `HTML/CSS` `C#` `Dart`  
-**frameworks:** `Arduino` `Flutter`  
-**tools:** `Git` `VS Code` `Blender` `Unity` `Fusion360`
-
+ 
+**languages:** `Python`-`Java`-`C#`-`Dart`-`HTML/CSS`  
+**frameworks:** `Arduino`-`Django`-`Flutter`  
+**tools:** `Git`-`Unity`-`Blender`-`Fusion360`  
+###### *in no specific order
 ---
 
-> _"Keep moving forward."_ - Walt Disney’s Meet the Robinsons (2007)
+> _"Keep moving forward."_ - meet the robinsons (2007)
 
 ### _thanks for visiting my profile - feel free to explore my projects! 👇_
 

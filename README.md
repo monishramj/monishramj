@@ -18,7 +18,7 @@ i love tackling interdisciplinary challenges through engineering and programming
  
 **languages:** `Python`-`Java`-`C#`-`Dart`-`HTML/CSS`  
 **frameworks:** `Arduino`-`Django`-`Flutter`  
-**tools:** `Git`-`Unity`-`Blender`-`Fusion360`  
+**tools:** `Git`-`Unity`-`Blender`-`Fusion360`-`Gradle`  
 ###### *in no specific order
 ---
 

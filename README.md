@@ -1,4 +1,4 @@
-# hello, i'm monish rj! 🐼
+# ★ hello, i'm monish rj! 
 ###### welcome to my github :octocat:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/monish-ramesh-jayakumar-980765354) 
